@@ -8,6 +8,21 @@
       "expo-router"
     ],
     "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "slug": "job-finder-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "512b6673-2181-480f-a185-711a544079fb"
+      }
+    },
+    "owner": "fuyuki325",
+    "ios": {
+      "bundleIdentifier": "com.fuyuki325.jobfinderapp"
+    },
+    "android": {
+      "package": "com.fuyuki325.jobfinderapp"
+    }
   }
 }
